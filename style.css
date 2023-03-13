@@ -5,13 +5,8 @@
   padding: 0;
   box-sizing: border-box;
 }
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 .dashboard-menu {
-  height: auto;
+  height: 100vh;
 }
 .logo {
   font-size: 40px;
