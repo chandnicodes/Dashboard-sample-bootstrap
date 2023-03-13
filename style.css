@@ -18,12 +18,15 @@
   text-align: center;
   margin: 0 0 10px 0;
 }
-.dashboard-menu,
-.list-group li {
+.dashboard-menu {
   background-color: #0f205e;
   color: white;
   padding: 10px;
   border: 0;
+}
+
+.list-group{
+  backgroung-color:transparent;
 }
 a {
   text-decoration: none;
